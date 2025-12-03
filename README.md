@@ -1,4 +1,4 @@
-# 📊 No-Code Data Analysis App
+# 📊  Data Analysis App
 
 A **Streamlit-powered** interactive data analysis platform where anyone can perform **EDA (Exploratory Data Analysis)**, **data cleaning**, **filtering**, and **visualization** — **without writing a single line of code**.
 
